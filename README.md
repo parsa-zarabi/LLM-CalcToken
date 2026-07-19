@@ -10,7 +10,7 @@ By teaching your LLM to output `[CALC: 2 + 2]` or `[CAL: 2 + 2]`, **LLM-CalcToke
 
 ## Quick Start
 ```bash
-git clone https://github.com/YOUR_USERNAME/LLM-CalcToken.git
+git clone https://github.com/parsa-zarab/LLM-CalcToken.git
 cd LLM-CalcToken
 python examples/run_inference.py
 ```
