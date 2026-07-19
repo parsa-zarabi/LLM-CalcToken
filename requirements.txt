@@ -1,0 +1,6 @@
+# No external dependencies required for the core engine.
+# It uses Python's built-in 'ast' and 're' modules for maximum speed.
+
+# Uncomment below if you plan to integrate with Hugging Face later:
+# transformers>=4.30.0
+# torch>=2.0.0
